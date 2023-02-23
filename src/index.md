@@ -15,6 +15,8 @@ If you're in a hurry, install your own version of [Pack11ty]{.pack11ty} for free
 
 # Key features
 
+`Dunstan's Edit`
+
 - **Collections** built automatically from root folders, with pagination for yearly and monthly archives
 - **JavaScript and CSS assets** optimized for performance
 - **Responsive Layout** without any Media Query, thanks to CSS Flexible Box Layout (Flexbox) and layouts from Every Layout
